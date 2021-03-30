@@ -1,6 +1,5 @@
 # cuento
-Pues un cuentirijillo 
+Estoy haciendo pruebas,
+si quieres has un merge y te aceptare
 
-no mas cuentos
-
-soy fan
+cuidate toma agua
